@@ -1,0 +1,5 @@
+git init (for the initliztion)
+git --a (stage the all chages)
+git status
+git commit -m
+git log
